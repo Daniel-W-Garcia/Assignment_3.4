@@ -42,12 +42,12 @@ partial class Form1
         // 
         dataGridViewCoffees.Location = new System.Drawing.Point(10, 22);
         dataGridViewCoffees.Name = "dataGridViewCoffees";
-        dataGridViewCoffees.Size = new System.Drawing.Size(593, 130);
+        dataGridViewCoffees.Size = new System.Drawing.Size(778, 130);
         dataGridViewCoffees.TabIndex = 0;
         // 
         // buttonAdd
         // 
-        buttonAdd.Location = new System.Drawing.Point(429, 323);
+        buttonAdd.Location = new System.Drawing.Point(53, 218);
         buttonAdd.Name = "buttonAdd";
         buttonAdd.Size = new System.Drawing.Size(163, 44);
         buttonAdd.TabIndex = 1;
@@ -57,7 +57,7 @@ partial class Form1
         // 
         // buttonDelete
         // 
-        buttonDelete.Location = new System.Drawing.Point(609, 323);
+        buttonDelete.Location = new System.Drawing.Point(252, 218);
         buttonDelete.Name = "buttonDelete";
         buttonDelete.Size = new System.Drawing.Size(163, 44);
         buttonDelete.TabIndex = 2;
